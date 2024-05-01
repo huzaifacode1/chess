@@ -1,0 +1,30 @@
+#green{
+    border: 1px solid rgb(119,149,87);
+    background-color:rgb(119,149,87);
+    animation-delay: inherit;
+    align-self: center;
+    text-align: center;
+    box-sizing: border-box;
+
+
+}
+#white{
+    border: 1px solid rgb(236,236,208);
+    background-color: rgb(236,236,208);
+    box-sizing: border-box;
+    text-align: center;
+}
+table{
+    height: 875px;
+    width: 1000px;
+    margin-left: 130px;
+    box-sizing: border-box;
+}
+td{
+    box-sizing: border-box;
+    height: 50px;
+    width: 50px;
+}
+img{
+    box-sizing: border-box;
+}
